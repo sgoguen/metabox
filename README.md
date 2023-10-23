@@ -1,8 +1,4 @@
----
-marp: true
----
-
-# Project: LLM Runtime Environment
+# Metbox - LLM Runtime Environment
 
 What would it look like if we created a development environment and programming language tailored to the strengths
 and weaknesses of an LLM?
@@ -33,3 +29,5 @@ While these are tools that are designed for humans:  How can some of these tools
 
 What if we rethought everything from the ground-up and created a symbolic/sandboxed language for an LLM?  
 Do we create a Lisp, an ML, a Haskell?
+
+What if we started with something from something from the [PL Zoo](https://plzoo.andrej.com/)?
